@@ -1,0 +1,68 @@
+p {
+	font-family: Liu Jian Mao Cao, cursive;
+	font-size: 25px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+span {
+	font-family: Yeon Sung, cursive;
+	font-weight: bolder;
+
+}
+
+body {
+	width: 476;
+	overflow: auto;
+}
+
+#left-sidebar {
+	width: 238px;
+	height: 714px;
+	float: left;
+}
+
+#right-sidebar {
+	width: 238px;
+	height: 714px;
+	float: left;
+}
+
+.quote-one-and-two {
+	background: #ffd699;
+	width: 224px;
+	height: 436px;
+	padding:40px 7px 0 7px;
+}
+
+.quote-three-and-four {
+	background: #adebad;
+	width: 224px;
+	height: 229px;
+	padding: 9px 7px 0 7px;
+	float: left;
+}
+
+.quote-five-and-eight {
+	background: #1e7b1e;
+	width: 224px;
+	height: 208px;
+	padding: 30px 7px 0 7px;
+	float: left;
+}
+
+.quote-six-and-nine {
+	background: #196719;
+	width: 224px;
+	height: 218px;
+	padding: 20px 7px 0 7px;
+	float: left;
+}
+
+.quote-seven-and-ten {
+	background: #ff9900;
+	width: 462px;
+	height: 109px;
+	padding: 1px 7px 0 7px;
+	clear: both;
+}
